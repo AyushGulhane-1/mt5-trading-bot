@@ -1,1 +1,4 @@
 .env 
+LOGIN=your_login
+PASSWORD=your_password
+SERVER=your_server
